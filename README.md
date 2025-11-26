@@ -171,23 +171,6 @@ The project follows a **layered architecture**:
 - **ES Modules** - Modern module system
 - **Readline** - Interactive console input
 
-## 📝 Notes
 
-- Data is stored **in-memory** and will be lost when the application closes
-- IDs are randomly generated 4-digit numbers
-- Stock cannot go below zero
-- Prices and quantities must be non-negative
 
-## 🎯 Next Steps
 
-To make this production-ready, consider:
-- [ ] Add persistent storage (database)
-- [ ] Add authentication and authorization
-- [ ] Create a REST API
-- [ ] Build a web interface
-- [ ] Add unit tests
-- [ ] Implement logging
-
----
-
-**Enjoy managing your inventory! 📦✨**
